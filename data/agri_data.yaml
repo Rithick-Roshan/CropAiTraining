@@ -1,5 +1,5 @@
 train: C:/Users/rithi/Downloads/agri_data/images/train
 val: C:/Users/rithi/Downloads/agri_data/images/val
 
-nc: 2   # number of classes (example: crop + weed)
-names: ['crop', 'weed']
+nc: 2 # number of classes (example: crop + weed)
+names: ["crop", "weed"]
